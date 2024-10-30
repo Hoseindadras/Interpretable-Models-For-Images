@@ -4,10 +4,10 @@ This repository is dedicated to the implementation, analysis, and documentation 
 
 ## Author
 - **Name**: Hosein Dadras
-- **Student ID**: 810102131
-- **Institution**: University of Tehran, School of Electrical and Computer Engineering, Trustworthy AI Group
-
+- **Academic Mail**: hoseindadras@ut.ac.ir 
+- **Personal Mail**: hoseindadras6@gmail.com
 ## Table of Contents
+
 
 - **Chapter 1: Understanding Data and Model Fundamentals**
   - **Section 1-1**: About Dataset
